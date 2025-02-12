@@ -1,4 +1,5 @@
-a=int(input("Enter a no:"))
-b=int(input("Enter a no:"))
-add=a+b
-print(sum)
+a=10
+b=15
+c=a+b
+print(c)
+
